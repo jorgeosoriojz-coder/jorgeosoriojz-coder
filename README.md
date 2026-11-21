@@ -5,7 +5,7 @@
  
 **Futuro Full Stack Developer · Siempre aprendiendo**
  
-[![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile+views&color=7dcfff&style=flat)](https://github.com/TU_USUARIO)
+[![Profile views](https://komarev.com/ghpvc/?username=jorgeosoriojz-coder&label=Profile+views&color=7dcfff&style=flat)](https://github.com/jorgeosoriojz-coder)
 [![Email](https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jorgeosoriojz@gmail.com)
  
 </div>
@@ -36,7 +36,7 @@ Todavía no tengo proyectos publicados, pero estoy trabajando en ello. Muy pront
  
 <!--
 Cuando tengas tu primer proyecto, puedes agregarlo así:
-- [Nombre del proyecto](https://github.com/TU_USUARIO/nombre-del-repo): breve descripción de lo que hace.
+- [Nombre del proyecto](https://github.com/jorgeosoriojz-coder/nombre-del-repo): breve descripción de lo que hace.
 -->
  
 ---
@@ -44,10 +44,10 @@ Cuando tengas tu primer proyecto, puedes agregarlo así:
 ### 📊 GitHub Stats
  
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jorgeosoriojz-coder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeosoriojz-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="Top languages" />
 <br />
-<img src="https://streak-stats.demolab.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=jorgeosoriojz-coder&theme=tokyonight&hide_border=true&background=1A1B27&stroke=565f89&ring=7dcfff&fire=bb9af7&currStreakLabel=7dcfff&sideNums=c0caf5&currStreakNum=7dcfff&sideLabels=c0caf5&dates=565f89" alt="GitHub streak" />
 </div>
 ---
  
@@ -55,3 +55,4 @@ Cuando tengas tu primer proyecto, puedes agregarlo así:
 **¿Quieres que hablemos? [Escríbeme](mailto:jorgeosoriojz@gmail.com)** 💬
  
 </div>
+ 
